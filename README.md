@@ -1,4 +1,4 @@
-![Cover Image]()
+![Cover Image](banner.png)
 ## Hi there 👋 I'm Noore Safa Raisa
 
 <!--
