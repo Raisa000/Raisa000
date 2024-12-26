@@ -1,3 +1,4 @@
+![Cover Image](Black Minimal Motivation Quote LinkedIn Banner.png)
 ## Hi there 👋 I'm Noore Safa Raisa
 
 <!--
